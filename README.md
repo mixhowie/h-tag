@@ -14,3 +14,4 @@ Chrome 新标签页扩展，自用。主要当作网址导航使用。
 2. https://my.oschina.net/hierick/blog/136313
 3. https://github.com/colebemis/tabio
 4. https://crxdoc-zh.appspot.com/extensions/
+5. https://crxdoc-zh.appspot.com/extensions/single_purpose

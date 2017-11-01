@@ -3,13 +3,11 @@
   "name": "h-tab",
   "description": "Chrome new tab.",
   "version": "1.0",
+  "permissions": [
+    "https://www.flickr.com/search/"
+  ],
   "browser_action": {
-    "default_title": "设置",
     "default_icon": "logo.png",
     "default_popup": "popup.html"
-  },
-  "incognito": "split",
-  "chrome_url_overrides": {
-    "newtab": "index.html"
   }
 }
